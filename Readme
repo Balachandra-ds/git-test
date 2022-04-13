@@ -1,0 +1,9 @@
+1.You have to do git pull first if some change has been made:
+    git pull origin main
+2.After pulling run the following commands to push your changes:
+    git add .
+
+    git commit -m "commit by me"
+
+    git push origin main
+
